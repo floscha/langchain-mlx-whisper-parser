@@ -4,7 +4,10 @@ LangChain parser to transcribe audio files with a local [MLX Whisper](https://gi
 
 ## ⚙️ Installation
 
-Install with `pip install langchain-mlx-whisper-parser@git+https://github.com/floscha/langchain-mlx-whisper-parser`
+Install with pip:
+```
+pip install langchain-mlx-whisper-parser@git+https://github.com/floscha/langchain-mlx-whisper-parser
+```
 
 ## 🚀 Usage
 
