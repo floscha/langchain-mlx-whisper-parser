@@ -1,0 +1,11 @@
+[project]
+name = "langchain-mlx-whisper-parser"
+version = "1.0.0"
+description = "LangChain parser to transcribe audio files with a local MLX Whisper model."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "langchain>=0.3.16",
+    "langchain-community>=0.3.16",
+    "mlx-whisper>=0.4.1",
+]
